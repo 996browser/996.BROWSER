@@ -1,5 +1,7 @@
 # 996.BROWSER
 
+[![LICENSE](https://img.shields.io/badge/%E8%AE%B8%E5%8F%AF%E8%AF%81-%E5%8F%8D996-red.svg)](https://github.com/996browser/996.BROWSER/blob/master/LICENSE)
+
 ## 屏蔽`996.icu`的浏览器列表
 
 |浏览器|公司|平台|主要提示|屏蔽方式|截图|
