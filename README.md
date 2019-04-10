@@ -15,3 +15,12 @@
 |QQ浏览器|深圳市腾讯计算机系统有限公司|Android|风险网址提醒|屏蔽||
 |搜狗浏览器|北京搜狗科技发展有限公司|Android||屏蔽||
 |UC浏览器|阿里巴巴文化娱乐集团|Android|出错啦！|屏蔽||
+
+## 不屏蔽`996.icu`的浏览器列表
+
+|浏览器|公司|平台|
+|---|---|---|
+|Chrome|Google Inc.|Windows|
+|Firefox|Mozilla社区|Windows|
+|Edge|微软公司|Windows|
+|Opera|Opera Software|Windows|
