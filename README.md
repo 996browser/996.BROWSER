@@ -18,9 +18,12 @@
 
 ## 不屏蔽`996.icu`的浏览器列表
 
-|浏览器|公司|平台|
-|---|---|---|
-|Chrome|Google Inc.|Windows|
-|Firefox|Mozilla社区|Windows|
-|Edge|微软公司|Windows|
-|Opera|Opera Software|Windows|
+|浏览器|公司|平台|下载地址|
+|---|---|---|---|
+|Chrome|Google Inc.|Windows|https://www.google.cn/chrome/|
+|Chromium|开源（谷歌）|Linux|仓库安装（apt-get、yum、dnf 等）|
+|Firefox|开源（Mozilla 社区）|Windows、Linux、Android|https://www.firefox.com.cn/mobile/|
+|Firefox Lite|开源（Mozilla 社区）|Android|https://www.firefox.com.cn/mobile/|
+|Edge|微软公司|Windows|系统自带|
+|Opera|Opera Software|Windows、Android|https://www.opera.com/zh-cn/download|
+|Safari|Apple Inc.|iPhone、iPad、Mac|系统自带|
