@@ -16,3 +16,15 @@
 |搜狗浏览器|北京搜狗科技发展有限公司|Android||屏蔽||
 |UC浏览器|阿里巴巴文化娱乐集团|Android|出错啦！|屏蔽||
 |傲游浏览器|傲游天下科技有限公司|Windows|危险|屏蔽||
+
+## 不屏蔽`996.icu`的浏览器列表
+
+|浏览器|公司|平台|下载地址|
+|---|---|---|---|
+|Chrome|Google Inc.|Windows|https://www.google.cn/chrome/|
+|Chromium|开源（谷歌）|Linux|仓库安装（apt-get、yum、dnf 等）|
+|Firefox|开源（Mozilla 社区）|Windows、Linux、Android|https://www.firefox.com.cn/mobile/|
+|Firefox Lite|开源（Mozilla 社区）|Android|https://www.firefox.com.cn/mobile/|
+|Edge|微软公司|Windows|系统自带|
+|Opera|Opera Software|Windows、Android|https://www.opera.com/zh-cn/download|
+|Safari|Apple Inc.|iPhone、iPad、Mac|系统自带|
