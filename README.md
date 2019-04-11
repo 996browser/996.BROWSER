@@ -29,3 +29,5 @@
 |Edge|微软公司|Windows|系统自带|
 |Opera|Opera Software|Windows、Android|https://www.opera.com/zh-cn/download|
 |Safari|Apple Inc.|iPhone、iPad、Mac|系统自带|
+|Yandex|Yandex Inc.|Android|https://play.google.com/store/apps/details?id=com.yandex.browser|
+
