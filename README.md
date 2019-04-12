@@ -2,7 +2,7 @@
 
 [![LICENSE](https://img.shields.io/badge/%E8%AE%B8%E5%8F%AF%E8%AF%81-%E5%8F%8D996-red.svg)](https://github.com/996browser/996.BROWSER/blob/master/LICENSE)
 
-  由于各厂商浏览器已经放开屏蔽，只能参考相关文章内的截图。（如有版权问题，可告知并下撤）
+    由于各厂商浏览器已经放开屏蔽，只能参考相关文章内的截图。（如有版权问题，可告知并下撤）
 
 ## 屏蔽`996.icu`的浏览器列表
 
