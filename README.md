@@ -20,6 +20,7 @@
 |猎豹浏览器|猎豹移动|Android|扫黄打非警告|屏蔽||
 |MIUI浏览器|北京小米科技有限责任公司|Android||||
 |欧朋浏览器|北界无限（北京）软件有限公司|Android|白屏|白屏||
+|OPPO内置浏览器（ColorOS）|广东欧珀移动通信有限公司|Android|根据国家有关规定，该页面禁止访问|屏蔽|[p1](https://github.com/996browser/996.BROWSER/blob/master/screenshots/oppo_mobile_1.jpg)|
 |QQ浏览器|深圳市腾讯计算机系统有限公司|Android|风险网址提醒|屏蔽||
 |QQ浏览器|:arrow_up_small:|Windows|您所访问的网站包含欺诈信息|屏蔽||
 |搜狗浏览器|北京搜狗科技发展有限公司|Android||屏蔽||
