@@ -37,4 +37,4 @@
 |Opera|Opera Software|Windows、Android|https://www.opera.com/zh-cn/download|
 |Safari|Apple Inc.|iPhone、iPad、Mac|系统自带|
 |Yandex|Yandex Inc.|Android|https://play.google.com/store/apps/details?id=com.yandex.browser|
-
+|夸克浏览器|广州市动景计算机科技有限公司|Android|https://www.myquark.cn/|
