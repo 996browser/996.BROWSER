@@ -25,7 +25,7 @@
 |QQ浏览器|:arrow_up_small:|Windows|您所访问的网站包含欺诈信息|屏蔽||
 |搜狗浏览器|北京搜狗科技发展有限公司|Android||屏蔽||
 |UC浏览器|阿里巴巴文化娱乐集团|Android|出错啦！|屏蔽||
-|夸克浏览器|广州市动景计算机科技有限公司|Android|根据监管部门规定以及投诉举报 此链接违反相关法律法规，禁止访问|屏蔽|[p1](https://github.com/996browser/996.BROWSER/blob/master/screenshots/quark_mobile_1.jpg)
+|夸克浏览器|广州市动景计算机科技有限公司|Android|根据监管部门规定以及投诉举报 此链接违反相关法律法规，禁止访问|屏蔽|[p1](./screenshots/quark_mobile_1.jpg)
 
 ## 不屏蔽`996.icu`的浏览器列表
 
