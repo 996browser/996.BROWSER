@@ -34,8 +34,8 @@
 |Chrome|Google Inc.|Windows|https://www.google.cn/chrome/|
 |Chromium|开源（谷歌）|Linux|仓库安装（apt-get、yum、dnf 等）|
 |Edge|微软公司|Windows|系统自带|
-|Firefox|开源（Mozilla 社区）|Windows、Linux、Android|https://www.firefox.com.cn/mobile/|
-|Firefox Lite|开源（Mozilla 社区）|Android|https://www.firefox.com.cn/mobile/|
+|Firefox|开源（Mozilla 社区）|Windows、Linux、Android|https://www.mozilla.org/zh-CN/firefox/|
+|Firefox Lite|开源（Mozilla 社区）|Android|https://www.mozilla.org/zh-CN/firefox/mobile/|
 |Opera|Opera Software|Windows、Android|https://www.opera.com/zh-cn/download|
 |Safari|Apple Inc.|iPhone、iPad、Mac|系统自带|
 |Yandex|Yandex Inc.|Android|https://play.google.com/store/apps/details?id=com.yandex.browser|
